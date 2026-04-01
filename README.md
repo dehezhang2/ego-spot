@@ -1,4 +1,4 @@
-# HoloSpot: Accessible robot control in Mixed Reality
+# EgoSpot:Egocentric Multimodal Control for Hands-Free Mobile Manipulation
 
 <img src="Assets/logo.png" alt="logo" style="zoom:10%;" />
 
