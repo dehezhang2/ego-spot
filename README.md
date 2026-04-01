@@ -87,11 +87,14 @@ We also thank [**Boyang Sun**](https://www.google.com/url?q=https%3A%2F%2Fwww.li
 
 ## Reference
 ```
-@article{zhang2023accessible,
-  title={Accessible Robot Control in Mixed Reality},
-  author={Zhang, Ganlin and Zhang, Deheng and Duan, Longteng and Han, Guo},
-  journal={arXiv preprint arXiv:2306.02393},
-  year={2023}
+@misc{zhang2026egospotegocentricmultimodalcontrolhandsfree,
+      title={EgoSpot:Egocentric Multimodal Control for Hands-Free Mobile Manipulation}, 
+      author={Ganlin Zhang and Deheng Zhang and Longteng Duan and Guo Han and Yuqian Fu and Danda Pani Paudel and Luc Van Gool and Eric Vollenweider},
+      year={2026},
+      eprint={2306.02393},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2306.02393}, 
 }
 ```
 
